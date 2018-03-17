@@ -21,6 +21,10 @@ const Header = () => (
             <li>
                 <a href="/contact">Contact</a>
             </li>
+
+            <li>
+                <a href="/tutorial">Tutorial</a>
+            </li>
         </ul>
     </header>
 );
